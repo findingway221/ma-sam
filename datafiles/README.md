@@ -1,0 +1,1 @@
+This folder should have 5 files, including trainImg.txt, trainMask.txt, valImg.txt, valMask.txt, and testImg.txt.
